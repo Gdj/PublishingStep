@@ -2,7 +2,10 @@
 ​
 -   코딩 툴의 이해 및 툴확장 (brackets, atom, VS code) / 각각 1시간    
     > 툴의 장단점, 플러그인 사용
-    
+    > [Brackets](http://brackets.io/)  
+    > [ATOM](https://atom.io/)  
+    > [VS Code](https://code.visualstudio.com/), (https://demun.github.io/vscode-tutorial/)  
+
 -   구조적인 코딩 방법, 네이밍 / 1시간    
     > .con-panel .con-header, con-body, con-footer  
     > [네이밍규칙](http://turfrain.ipdisk.co.kr/TRpackage/uiGuide/demo/naming/naming_rule.html?dep1=1&dep2=0)
