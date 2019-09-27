@@ -1,7 +1,7 @@
 # 퍼블리싱 스텝
 ​
 -   코딩 툴의 이해 및 툴확장 (brackets, atom, VS code) / 각각 1시간    
-    > 툴의 장단점, 플러그인 사용
+    > 툴의 장단점, 플러그인 사용  
     > [Brackets](http://brackets.io/)  
     > [ATOM](https://atom.io/)  
     > [VS Code](https://code.visualstudio.com/), (https://demun.github.io/vscode-tutorial/)  
